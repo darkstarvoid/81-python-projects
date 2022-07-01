@@ -1,0 +1,2 @@
+language = "bash"
+run = "python3 ~/81-python-projects/bagels.py"
